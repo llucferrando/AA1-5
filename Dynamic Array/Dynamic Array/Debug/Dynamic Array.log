@@ -1,0 +1,3 @@
+﻿  Enemies.cpp
+C:\Users\LlucFerrando\source\repos\Dynamic Array\Dynamic Array\Enemies.cpp(79): warning C4715: 'equalEnemies': not all control paths return a value
+  Dynamic Array.vcxproj -> C:\Users\LlucFerrando\source\repos\Dynamic Array\Debug\Dynamic Array.exe
